@@ -110,11 +110,12 @@ This project demonstrates the use of important SQL concepts including:
 ## Dataset Files
 
 The dataset used in this project includes:
-
 - Books.csv
 - Customers.csv
 - Orders.csv
 
 ---
 
-## Project Structure
+## Author
+
+Abhay Tomar
